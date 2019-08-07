@@ -1,0 +1,5 @@
+com\yanglin\service\impl\UserServiceImpl.class
+com\yanglin\web\controllers\UserController.class
+com\yanglin\dao\UserDao.class
+com\yanglin\service\UserService.class
+com\yanglin\bean\User.class
